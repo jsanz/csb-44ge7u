@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,+DAA+D,CAE/D,KACE,SAAU,CACV,QACF,CAEA,KACE,YACF","file":"src.5a46499b.css","sourceRoot":"..","sourcesContent":["@import url(\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.css\");\n\nbody {\n  padding: 0;\n  margin: 0;\n}\n\n#map {\n  height: 100vh;\n}\n"]}
